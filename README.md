@@ -6,6 +6,11 @@
 
 
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 𝘼𝙧𝙧𝙖𝙮 1=>
+
+
+
+
+
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/Array1.PNG)
 _Hasil output dari data di atas adalah menjumlahkan semua angka atau nilai kemudian di bagi dengan jumlah nilai yang di oprasikan dan akhirnya ketemulah hasil rata-rata dari seluruh nilai di atas dan program di atas menggunakan System Array dan for int jadi setelah program di kelompokan sesuat kategorinya kemudian di proses dengan proses for dengan menyebut setiap kelas array kemudian di proses sampai jadilah keluaran rata-rata   
 _
@@ -13,6 +18,12 @@ _
 
 
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 𝘼𝙧𝙧𝙖𝙮 2=>
+
+
+
+
+
+
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/Array2.PNG)
 _Array di atas Sudah di kelompokan setiap angka yang mewakili jumlah setiap bulan dan pada proses di atas kita menyebut indeks 2 maka akan keluar hasil nya yaitu 31
 
@@ -52,10 +63,27 @@ _
 
 
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum1 yang salah(Original)=>
+
+
+
+
+
+
+
+
+
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/praktikum1Error.PNG)
 
 
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum1 yang sudah benar=>
+
+
+
+
+
+
+
+
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/praktikum1.PNG)
 _   
 
@@ -73,10 +101,26 @@ _
 
 
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum2 yang salah(Original)=>
+
+
+
+
+
+
+
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/praktikum2Error.PNG)
 
 
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum2 ini yang sudah benar=>
+
+
+
+
+
+
+
+
+
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/praktikum2.PNG)
 _  
 
