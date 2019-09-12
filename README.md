@@ -33,6 +33,11 @@ _
 
 
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 𝘼𝙧𝙧𝙖𝙮 multi dimensi =>
+
+
+
+
+
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/Array3.PNG)
 _
 _
@@ -42,6 +47,11 @@ _
 
 
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 𝘼𝙧𝙧𝙖𝙮 multi dimensi=>
+
+
+
+
+
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/Array4.PNG)
 _
 _
@@ -51,6 +61,10 @@ _
 
 _
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 𝘼𝙧𝙧𝙖𝙮 multi dimensi=>
+
+
+
+
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/Array5.PNG)
 _
 _
