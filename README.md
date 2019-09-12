@@ -45,6 +45,12 @@ _
 _
 _
 _
+
+
+
+
+
+
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum1 yang salah(Original)=>
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/praktikum1Error.PNG)
 
@@ -57,6 +63,13 @@ _
 _
 _
 _
+
+
+
+
+
+
+
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum2 yang salah(Original)=>
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/praktikum2Error.PNG)
 
