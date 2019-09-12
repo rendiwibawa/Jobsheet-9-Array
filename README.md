@@ -46,7 +46,7 @@ _
 _
 _
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum1 yang salah(Original)=>
-![Alt Text]()
+![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/praktikum1Error.PNG)
 
 
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum1 yang sudah benar=>
@@ -58,10 +58,10 @@ _
 _
 _
 𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum2 yang salah(Original)=>
-![Alt Text]()
+![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/praktikum2Error.PNG)
 
 
-𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum2=>
+𝙝𝙖𝙨𝙞𝙡 𝙧𝙪𝙣 praktikum2 ini yang sudah benar=>
 ![Alt Text](https://github.com/rendiwibawa/Jobsheet-9-Array/blob/master/praktikum2.PNG)
 _   Jika codingan di atas jalankan maka akan keluar hasil output nya dan program di atas tidak terjadi error karena sudah benar dan karena mendeklarasikan array nya tidak menyebutkan jumlah elemen yang di perlukan dengan kata lain di sini saya menggunakan jenis deklarasi variable yang, Tetapi jika hal ini di lakukan maka harus ada tambahan code yaitu=== new tipedatanya [jumlah bilanganya]===== maka programakan berjalan dan tidak error ini merupakan cara deklarasi variable. Tetapi kali ini saya menggunakan cara tanpa menyebutkan jumlah elemen yang di perlukan jadi tidak menambahkan code yang tadi, dan kali saya menggunakan jenis deklarasi variable array secara otomatis jadi tanpa menambahkan code di atas maka variable akan di deklarasi secara otomatis oleh program dan hal ini tentunya akan lebih simple.
     karena sebelumnya tidak ada code untuk mengeluarkan suatu indeks pada program di atas jadi walaupun deklarasi kita sudah benar tetap saja tidak akan tertampil hasil keluaranya. Dan program di atas sudah saya tambahkan dengan System.out.print(bilangan[6]); untuk mengeluarkan indeks ke-6 dari data array di atas dan hasilnya seperti gambar di atas
